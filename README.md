@@ -20,10 +20,12 @@ I'm a full-stack developer with a background in hospitality and event entreprene
 * My React skills
 * My portfolio & projects
 * Nexposition, an immersive art gallery app (Unity, C#, ThreeJS)
+
 🌱 I’m currently learning 
 * React Hooks
 * Firebase
 * ThreeJS
+
 🔨 I’m looking to collaborate on
 * React apps
 * Democratization tools
