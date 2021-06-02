@@ -16,6 +16,7 @@ I'm a full-stack developer with a background in hospitality and event entreprene
 * Storybook, Cypress, Jest
 
 #### Adam's Projects
+```
 🔭 I’m currently working on:
 * My React skills
 * My portfolio & projects
@@ -30,8 +31,10 @@ I'm a full-stack developer with a background in hospitality and event entreprene
 * React apps
 * Democratization tools
 * Data Scrapers
+```
 
-💻 I'm currently working on: 
+
+<!-- 💻 I'm currently working on: 
     
      • Updating my portfolio & old projects (it's a never ending cycle)
      • My React.js skills (bring it on, hooks)      
@@ -45,7 +48,7 @@ I'm a full-stack developer with a background in hospitality and event entreprene
     
      • Vue.js (the more JavaScript frameworks, the better)
      • Redux (once I'm more familiar with react hooks)   
-
+ -->
 
 <!--
 **AdamHHart/AdamHHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
