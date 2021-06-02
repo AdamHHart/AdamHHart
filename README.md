@@ -31,6 +31,21 @@ I'm a full-stack developer with a background in hospitality and event entreprene
 * Democratization tools
 * Data Scrapers
 
+💻 I'm currently working on: 
+    
+     • Updating my portfolio & old projects (it's a never ending cycle)
+     • My React.js skills (bring it on, hooks)      
+
+📖 I'm currently learning: 
+    
+     • Vanilla JavaScript (I learned jQuery first)   
+     • Computer Science fundamentals (thanks to Harvard's CS50x course)   
+
+🌟 Next, I want to learn:  
+    
+     • Vue.js (the more JavaScript frameworks, the better)
+     • Redux (once I'm more familiar with react hooks)   
+
 
 <!--
 **AdamHHart/AdamHHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
