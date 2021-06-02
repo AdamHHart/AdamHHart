@@ -16,15 +16,15 @@ I'm a full-stack developer with a background in hospitality and event entreprene
 * Storybook, Cypress, Jest
 
 #### Adam's Projects
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 * My React skills
 * My portfolio & projects
 * Nexposition, an immersive art gallery app (Unity, C#, ThreeJS)
-- 🌱 I’m currently learning 
+🌱 I’m currently learning 
 * React Hooks
 * Firebase
 * ThreeJS
-- 👯 I’m looking to collaborate on
+🔨 I’m looking to collaborate on
 * React apps
 * Democratization tools
 * Data Scrapers
