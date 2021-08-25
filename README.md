@@ -9,12 +9,16 @@ I'm a full-stack developer with a background in hospitality and event entreprene
 * Javascript, (ES6), React.js
 * HTML5
 * CSS3, Sass
+* ThreeJS
 * Ruby, Rails
 * C#
 * SQL, Postgres
 * Git, Github
 * Unity
+* GLSL
 * Storybook, Cypress, Jest
+* Blender
+* Adobe Suite
 ```
 
 #### Adam's Projects
@@ -22,47 +26,16 @@ I'm a full-stack developer with a background in hospitality and event entreprene
 🔭 I’m currently working on:
 * My React skills
 * My portfolio & projects
+* Three.JS app (Nexposition)
 * Nexposition, an immersive art gallery app (Unity, C#, ThreeJS)
 
 🌱 I’m currently learning 
-* React Hooks
-* Firebase
-* ThreeJS
+* React Hooks, JavaScript, Blender, ThreeJS, Figma 
 
 🔨 I’m looking to collaborate on
 * React apps
+* Three.JS apps
 * Democratization tools
 * Data Scrapers
 ```
 
-
-<!-- 💻 I'm currently working on: 
-    
-     • Updating my portfolio & old projects (it's a never ending cycle)
-     • My React.js skills (bring it on, hooks)      
-
-📖 I'm currently learning: 
-    
-     • Vanilla JavaScript (I learned jQuery first)   
-     • Computer Science fundamentals (thanks to Harvard's CS50x course)   
-
-🌟 Next, I want to learn:  
-    
-     • Vue.js (the more JavaScript frameworks, the better)
-     • Redux (once I'm more familiar with react hooks)   
- -->
-
-<!--
-**AdamHHart/AdamHHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
